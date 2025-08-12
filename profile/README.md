@@ -1,3 +1,4 @@
 # Side X Side 📦
 
-## Handmade Automation (25.08.12)
+## habit (25.08.12)
+> Handmade Automation - Blockchain Investment Trading
